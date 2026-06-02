@@ -80,13 +80,6 @@ LLMs, RAG pipelines, Computer Vision, and Deep Learning.
 
 ---
 
-# 📈 GitHub Stats
-
-![Basava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basava-27&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basava-27&layout=compact&theme=tokyonight)
-
----
 
 # 🌱 Currently Learning
 
@@ -100,8 +93,6 @@ LLMs, RAG pipelines, Computer Vision, and Deep Learning.
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 🧠 LeetCode: YOUR_LEETCODE_LINK
 - 📧 Email: basavaraj06032003@gmail.com
 
 ---

@@ -8,18 +8,15 @@
   <a href="mailto:basavaraj06032003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/basavaraj-kumbar-482698308">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+  <a href="https://leetcode.com/u/Sp-27/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6ad3f7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Basava-27&color=6ad3f7&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -163,29 +160,6 @@ class Basavaraj:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 | Area | Focus |
@@ -229,8 +203,3 @@ class Basavaraj:
 </div>
 
 ---
-
-> **⚙️ Setup Checklist** — Replace these before pushing:
-> - `YOUR_GITHUB_USERNAME` → your actual GitHub username
-> - `YOUR_LINKEDIN` → your LinkedIn profile URL  
-> - `YOUR_LEETCODE` → your LeetCode username

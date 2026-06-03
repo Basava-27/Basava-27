@@ -48,7 +48,7 @@ class Basavaraj:
 | Role | Organization | Duration |
 |------|-------------|----------|
 | 🔬 Research Intern | Bosch Global Software Technologies | Current |
-| 🎓 B.E. ISE | NIE Mysore | 2021 – 2025 |
+| 🎓 B.E. ISE | NIE Mysore | 2022 – 2026 |
 
 ---
 
